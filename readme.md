@@ -1,6 +1,8 @@
 # stackmonoid.ua
 
-This is an implementation of a stack monoid for the programming language [Uiua](https://www.uiua.org).
+## This code no longer works in the latest version of Uiua.
+
+This is an implementation of a [stack monoid](https://raphlinus.github.io/) for the programming language [Uiua](https://www.uiua.org).
 
 A stack monoid is a data structure consisting of a series of 'pushes' and 'pops'.
 A stack monoid is not itself a stack - rather, it is a sequence of operations
